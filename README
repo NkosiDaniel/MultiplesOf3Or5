@@ -1,0 +1,2 @@
+// This repository is intended for Project Euler use (Problem #1: Multiples of 3 or 5 less than 1000).
+// Instead of using a for-loop, I solved this problem recursively. Look at the program file and consider how I did that.
